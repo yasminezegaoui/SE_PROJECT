@@ -1,1 +1,0 @@
-Dans cette présentation nous allons vous exposer les principales attaques de sécurité, leurs impacts et vous montrer comment éviter de tomber dans leurs pièges.
