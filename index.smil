@@ -20,7 +20,7 @@
        <video region="r2" begin="25s" end="38s" src="image-vedio/VIDEO2.mp4" />
        
         <!-- phishing -->
-       <img region="r2" begin="38s" end="42s" src="image-vedio/Frame 2.png"/>
+       <video region="r2" begin="38s" end="42s" src="image-vedio/Frame 2.mp4"/>
        <audio src="voice/phish 1.mp3"  begin="38s"/>
        <img region="r2" begin="42s" end="45s" src="image-vedio/Frame 3.png"/>
        <audio src="voice/phish 2.mp3"  end="45s" begin="42s"/>
@@ -35,7 +35,7 @@
 
 
        <audio src="voice/phish 5.1.mp3"  begin="71s"/>
-       <img region="r2" begin="71s" end="74s" src="image-vedio/Frame 9.png"/>
+       <video region="r2" begin="71s" end="74s" src="image-vedio/Frame 9.mp4"/>
 
        <audio src="voice/phish 5.2.mp3"  begin="74s"/>
        <img region="r2" begin="74s" end="103s" src="image-vedio/Frame 10.png"/>
