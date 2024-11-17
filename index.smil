@@ -8,14 +8,23 @@
       <root-layout width="300" height="200" background-color="white"/>
       <region id="r1" left="20%" top="70%" width="100%" height="30%"/>
       <region id="r2" width="100%" height="100%" fit="slice"/>
+      <region id="subtitles" left="10%" top="85%" width="80%" height="3%"/>
     </layout>
   </head>
   <body>
     <par>
        <img region="r2" begin="0s" end="3s" src="Frame 1.png"/>
-       <audio src="voice/premier audio.mp3"  begin="3s"/>
+       <audio src="voice/premier audio.mp3" begin="3s"/>
        <video region="r2" begin="3s" end="25s" src="image-vedio/video1.mp4" />
        <video region="r2" begin="25s" src="image-vedio/VIDEO2.mp4" />
+       
+       <!-- Sous-titres -->
+       <text region="subtitles" src="fichier texte/sub1.txt" begin="3s" end="10s"/>
+       <text region="subtitles" src="fichier texte/sub2.txt" begin="11s" end="14s"/>
+       <text region="subtitles" src="fichier texte/sub3.txt" begin="15s" end="21s"/>
+       <text region="subtitles" src="fichier texte/sub4.txt" begin="22s" end="29s"/>
+       <text region="subtitles" src="fichier texte/sub5.txt" begin="29s" end="30s"/>
+       <text region="subtitles" src="fichier texte/sub6.txt" begin="31s" end="37s"/>
     </par>
   </body>
 </smil>
