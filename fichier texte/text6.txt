@@ -1,4 +1,0 @@
-voici comment les attaques de phishing fonctionnent : 
-Le hacker recueille des donnees publiques sur la victime, souvent via les reseaux sociaux,
-il lui envoie un message souvent urgent, pour inciter la victime a agir rapidement.
-Le message contient un lien vers une page web qui imite une vraie plateforme : banque, reseau social ou parfois la victime est invitee a entrer ses informations personnelles.
