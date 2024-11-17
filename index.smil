@@ -12,7 +12,10 @@
   </head>
   <body>
     <par>
-       <video region="r2" begin="0s" src="image-vedio/video1.mp4" />
+       <img region="r2" begin="0s" end="3s" src="Frame 1.png"/>
+       <audio src="voice/premier audio.mp3"  begin="3s"/>
+       <video region="r2" begin="3s" end="25s" src="image-vedio/video1.mp4" />
+       <video region="r2" begin="25s" src="image-vedio/VIDEO2.mp4" />
     </par>
   </body>
 </smil>
