@@ -45,6 +45,7 @@
 
        <audio src="voice/phish 7.mp3"  begin="107s" end="118"/>       
        <img region="r2" begin="107s" end="118s" src="image-vedio/Frame 7.png"/>
+
        <!-- Sous-titres -->
        <!-- intro -->
        <text region="subtitles" src="fichier texte/sub1.txt" begin="3s" end="10s"/>
@@ -53,9 +54,21 @@
        <text region="subtitles" src="fichier texte/sub4.txt" begin="22s" end="29s"/>
        <text region="subtitles" src="fichier texte/sub5.txt" begin="29s" end="30s"/>
        <text region="subtitles" src="fichier texte/sub6.txt" begin="31s" end="37s"/>
+
        <!-- phishing -->
-       <text region="subtitles" src="fichier texte/text1.txt" begin="62s" end="71s"/>
-       <text region="subtitles" src="fichier texte/text2.txt" begin="107s" end="118s"/>        
+       <text region="subtitles" src="fichier texte/text3.txt" begin="45s" end="49s"/>
+       <text region="subtitles" src="fichier texte/text4.txt" begin="49s" end="54s"/>
+       <text region="subtitles" src="fichier texte/text5.txt" begin="54s" end="61s"/>
+       <text region="subtitles" src="fichier texte/text6.txt" begin="62s" end="70s"/>
+       <text region="subtitles" src="fichier texte/text8.txt" begin="74s" end="78s"/>
+       <text region="subtitles" src="fichier texte/text9.txt" begin="78s" end="83s"/>
+       <text region="subtitles" src="fichier texte/text10.txt" begin="83s" end="91s"/>
+       <text region="subtitles" src="fichier texte/text11.txt" begin="91s" end="99s"/>
+       <text region="subtitles" src="fichier texte/text12.txt" begin="99s" end="103s"/>
+       <text region="subtitles" src="fichier texte/text14.txt" begin="107s" end="112s"/>
+       <text region="subtitles" src="fichier texte/text15.txt" begin="112s" end="118s"/> 
+
+
     </par>
   </body>
 </smil>
