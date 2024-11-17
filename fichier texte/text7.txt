@@ -1,0 +1,1 @@
+Lorsque la victime fournit ces informations ou juste clique sur le lien "envoyer", le hacker recupere ses informations, ensuite il utilise ses donnees pour acceder a des comptes, voler de l'argent ou usurper l'identite.
