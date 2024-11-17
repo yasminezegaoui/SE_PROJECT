@@ -41,10 +41,10 @@
        <img region="r2" begin="74s" end="103s" src="image-vedio/Frame 10.png"/>
 
        <audio src="voice/phish 6.mp3"  begin="103s" end="105s"/>
-       <img region="r2" begin="103s" end="105s" src="image-vedio/Frame 11.png"/>
+       <video region="r2" begin="103s" end="107s" src="image-vedio/Frame 11.mp4"/>
 
-       <audio src="voice/phish 7.mp3"  begin="105s" end="116"/>       
-       <img region="r2" begin="105s" end="116s" src="image-vedio/Frame 7.png"/>
+       <audio src="voice/phish 7.mp3"  begin="107s" end="118"/>       
+       <img region="r2" begin="107s" end="118s" src="image-vedio/Frame 7.png"/>
        <!-- Sous-titres -->
        <!-- intro -->
        <text region="subtitles" src="fichier texte/sub1.txt" begin="3s" end="10s"/>
@@ -55,7 +55,7 @@
        <text region="subtitles" src="fichier texte/sub6.txt" begin="31s" end="37s"/>
        <!-- phishing -->
        <text region="subtitles" src="fichier texte/text1.txt" begin="62s" end="71s"/>
-       <text region="subtitles" src="fichier texte/text2.txt" begin="105s" end="116s"/>       
+       <text region="subtitles" src="fichier texte/text2.txt" begin="107s" end="118s"/>        
     </par>
   </body>
 </smil>
