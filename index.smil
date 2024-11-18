@@ -52,6 +52,8 @@
        <text region="subtitles" src="fichier texte/sub4.txt" begin="22s" end="29s"/>
        <text region="subtitles" src="fichier texte/sub5.txt" begin="29s" end="30s"/>
        <text region="subtitles" src="fichier texte/sub6.txt" begin="31s" end="37s"/>
+       <text region="r1" src="fichier texte/text1.txt" begin="62s" end="71s"/>
+       <text region="r1" src="fichier texte/text2.txt" begin="105s" end="116s"/>       
     </par>
   </body>
 </smil>
