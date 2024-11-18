@@ -46,6 +46,11 @@
        <audio src="voice/phish 7.mp3"  begin="107s" end="118"/>       
        <img region="r2" begin="107s" end="118s" src="image-vedio/Frame 7.png"/>
 
+
+       <!-- Malwares -->
+       <video region="r2" begin="118s" end="121s" src="image-vedio/malwares.mp4"/>
+
+
        <!-- Sous-titres -->
        <!-- intro -->
        <text region="subtitles" src="fichier texte/sub1.txt" begin="3s" end="10s"/>
