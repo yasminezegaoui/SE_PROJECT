@@ -1,0 +1,1 @@
+Les attaques commencent souvent par des mots de passe simples et augmentent en complexite.

@@ -1,0 +1,1 @@
+S'assurer que les connexions a des sites sont securisees et ne pas se connecter a des reseaux Wi-Fi publics non securises afin de reduire

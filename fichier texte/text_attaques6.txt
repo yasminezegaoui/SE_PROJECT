@@ -1,0 +1,1 @@
+passe. Ces outils, comme Hydra ou John the Ripper, essaient rapidement differentes permutations de caracteres (lettres, chiffres, symboles).
