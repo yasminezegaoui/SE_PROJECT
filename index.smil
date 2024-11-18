@@ -13,11 +13,38 @@
   </head>
   <body>
     <par>
+        <!-- Intro -->
        <img region="r2" begin="0s" end="3s" src="Frame 1.png"/>
        <audio src="voice/premier audio.mp3" begin="3s"/>
        <video region="r2" begin="3s" end="25s" src="image-vedio/video1.mp4" />
-       <video region="r2" begin="25s" src="image-vedio/VIDEO2.mp4" />
+       <video region="r2" begin="25s" end="38s" src="image-vedio/VIDEO2.mp4" />
        
+        <!-- phishing -->
+       <img region="r2" begin="38s" end="42s" src="image-vedio/Frame 2.png"/>
+       <audio src="voice/phish 1.mp3"  begin="38s"/>
+       <img region="r2" begin="42s" end="45s" src="image-vedio/Frame 3.png"/>
+       <audio src="voice/phish 2.mp3"  end="45s" begin="42s"/>
+
+       <img region="r2" begin="45s" end="48s" src="image-vedio/Frame 4.png"/>
+       <img region="r2" begin="48s" end="55s" src="image-vedio/Frame 5.png"/>
+       <img region="r2" begin="55s" end="62s" src="image-vedio/Frame 6.png"/>
+       <audio src="voice/phish 3.mp3"  begin="45s"/>
+
+       <audio src="voice/phish 4.mp3"  begin="62s"/>
+       <img region="r2" begin="62s" end="71s" src="image-vedio/Frame 8.png"/>
+
+
+       <audio src="voice/phish 5.1.mp3"  begin="71s"/>
+       <img region="r2" begin="71s" end="74s" src="image-vedio/Frame 9.png"/>
+
+       <audio src="voice/phish 5.2.mp3"  begin="74s"/>
+       <img region="r2" begin="74s" end="103s" src="image-vedio/Frame 10.png"/>
+
+       <audio src="voice/phish 6.mp3"  begin="103s" end="105s"/>
+       <img region="r2" begin="103s" end="105s" src="image-vedio/Frame 11.png"/>
+
+       <audio src="voice/phish 7.mp3"  begin="105s" end="116"/>       
+       <img region="r2" begin="105s" end="116s" src="image-vedio/Frame 7.png"/>
        <!-- Sous-titres -->
        <text region="subtitles" src="fichier texte/sub1.txt" begin="3s" end="10s"/>
        <text region="subtitles" src="fichier texte/sub2.txt" begin="11s" end="14s"/>
