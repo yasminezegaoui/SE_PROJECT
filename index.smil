@@ -85,7 +85,32 @@
        <img region="r2" begin="180s" end="184s" src="image-vedio/Malware 12 (.png"/>
        <audio src="voice/Malware 12.mp3"  begin="180s" end="184s"/>
 
-  
+
+       <!-- Attaques de force -->
+
+       <audio src="voice/force1.mp3"  begin="184s" end="186s"/>
+       <video region="r2" begin="184s" end="187s" src="image-vedio/force1.mp4"/>
+
+       <audio src="voice/force2.mp3"  begin="187s" end="201s"/>
+       <img region="r2" begin="187s" end="193s" src="image-vedio/force2.png"/>
+       <img region="r2" begin="193s" end="202s" src="image-vedio/force2aussi.png"/>
+
+       <audio src="voice/force3.mp3"  begin="202s" end="204s"/>
+       <video region="r2" begin="202s" end="205s" src="image-vedio/force3.mp4"/>
+
+       <audio src="voice/force4.mp3"  begin="205s" end="225s"/>
+       <img region="r2" begin="205s" end="222s" src="image-vedio/force4.png"/>
+       <img region="r2" begin="222s" end="225s" src="image-vedi/force4aussi.png"/>
+
+       <audio src="voice/force5.mp3"  begin="225s" end="227s"/>
+       <video region="r2" begin="225s" end="227s" src="image-vedio/force5.mp4"/>
+
+       <audio src="voice/force6.mp3"  begin="227s" end="261s"/>
+       <img region="r2" begin="227s" end="229s" src="image-vedio/force6.1.png"/>
+       <img region="r2" begin="229s" end="237s" src="image-vedio/force6.2.png"/>
+       <img region="r2" begin="237s" end="239s" src="image-vedio/force6.3.png"/>
+       <img region="r2" begin="239s" end="250s" src="image-vedio/force6.4.png"/>
+       <img region="r2" begin="250s" end="261s" src="image-vedio/force6.5.png"/>
 
      
 
