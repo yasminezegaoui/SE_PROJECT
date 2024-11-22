@@ -8,7 +8,7 @@
       <root-layout width="300" height="200" background-color="white"/>
       <region id="r1" left="20%" top="70%" width="100%" height="30%"/>
       <region id="r2" width="100%" height="100%" fit="slice"/>
-      <region id="subtitles" left="10%" top="85%" width="80%" height="3%"/>
+      <region id="subtitles" left="10%" top="85%" width="80%" height="3%" />
     </layout>
   </head>
   <body>
@@ -48,7 +48,46 @@
 
 
        <!-- Malwares -->
-       <video region="r2" begin="118s" end="121s" src="image-vedio/malwares.mp4"/>
+
+       
+       <audio src="voice/Malware 1.mp3"  begin="118s" end="120s"/>
+       <audio src="voice/Malware 2.mp3"  begin="120s" end="123s"/> 
+       <video region="r2" begin="118s" end="123s" src="image-vedio/malware 1+2.mp4"/>    
+
+       <audio src="voice/Malware 3.mp3"  begin="123s" end="129s"/>
+       <audio src="voice/Malware 4.mp3"  begin="129s" end="138s"/> 
+       <video region="r2" begin="123s" end="138s" src="image-vedio/Mal 3+4 .mp4"/>  
+
+       <video region="r2" begin="138s" end="149s" src="image-vedio/Mal 5.mp4"/> 
+       <audio src="voice/Malware 5.mp3"  begin="138s" end="149s"/>
+
+       <img region="r2" begin="149s" end="151s" src="image-vedio/malware 6.png"/>
+       <audio src="voice/Malware 6.mp3"  begin="149s" end="151s"/> 
+
+       <video region="r2" begin="151s" end="159s" src="image-vedio/Mal 7.1.mp4"/>
+       <video region="r2" begin="159s" end="167s" src="image-vedio/Mal 7.2.mp4"/>
+       <audio src="voice/Malware 7.mp3"  begin="151s" end="167s"/> 
+
+       <img region="r2" begin="167s" end="169s" src="image-vedio/malware 8.png"/>
+       <audio src="voice/Malware 8.mp3"  begin="167s" end="169s"/>
+
+       <img region="r2" begin="170s" end="172s" src="image-vedio/mal 9.png"/>
+       <audio src="voice/Malware 9.mp3"  begin="169s" end="172s"/>  
+       <video region="r2" begin="169s" end="170s" src="image-vedio/Mal 9.2   T=1 s .mp4"/>
+
+       <img region="r2" begin="172s" end="176s" src="image-vedio/maware 10.png"/>
+       <audio src="voice/Malware 10.mp3"  begin="172s" end="176s"/>
+
+
+       <img region="r2" begin="176s" end="180s" src="image-vedio/malware 11.png"/>
+       <audio src="voice/Malware 11.mp3"  begin="176s" end="180s"/>
+
+       <img region="r2" begin="180s" end="184s" src="image-vedio/Malware 12 (.png"/>
+       <audio src="voice/Malware 12.mp3"  begin="180s" end="184s"/>
+
+  
+
+     
 
 
        <!-- Sous-titres -->
@@ -72,6 +111,26 @@
        <text region="subtitles" src="fichier texte/text12.txt" begin="99s" end="103s"/>
        <text region="subtitles" src="fichier texte/text14.txt" begin="107s" end="112s"/>
        <text region="subtitles" src="fichier texte/text15.txt" begin="112s" end="118s"/> 
+         
+      <!-- Malware -->
+       <text region="subtitles" src="fichier texte/text_malwares1.txt" begin="120s" end="122s"/>
+       <text region="subtitles" src="fichier texte/text_malwares2.txt" begin="123s" end="129s"/>
+       <text region="subtitles" src="fichier texte/text_malwares3.txt" begin="129s" end="135s"/>
+
+       <text region="subtitles" src="fichier texte/text_malwares4.txt" begin="135s" end="137s"/>
+       <text region="subtitles" src="fichier texte/text_malwares5.txt" begin="138s" end="145s"/>
+       <text region="subtitles" src="fichier texte/text_malwares6.txt" begin="145s" end="148s"/>
+       <text region="subtitles" src="fichier texte/text_malwares7.txt" begin="148s" end="151s"/>
+       <text region="subtitles" src="fichier texte/text_malwares8.txt" begin="151s" end="156s"/>
+       <text region="subtitles" src="fichier texte/text_malwares9.txt" begin="156s" end="159s"/>
+       <text region="subtitles" src="fichier texte/text_malwares10.txt" begin="159s" end="166s"/>
+       <text region="subtitles" src="fichier texte/text_malwares12.txt" begin="167s" end="168s"/> 
+       <text region="subtitles" src="fichier texte/text_malwares13.txt" begin="169s" end="171s"/>
+       <text region="subtitles" src="fichier texte/text_malwares14.txt" begin="172s" end="175s"/> 
+       <text region="subtitles" src="fichier texte/text_malwares15.txt" begin="175s" end="179s"/> 
+       <text region="subtitles" src="fichier texte/text_malwares16.txt" begin="179s" end="183s"/>
+
+    
 
 
     </par>
