@@ -162,9 +162,9 @@
        <text region="subtitles" src="fichier texte/text_attaques9.txt" begin="227s" end="229s"/>
        <text region="subtitles" src="fichier texte/text_attaques10.txt" begin="229s" end="236s"/>
        <text region="subtitles" src="fichier texte/text_attaques11.txt" begin="236s" end="238s"/>
-       <text region="subtitles" src="fichier texte/text_attaques12.txt" begin="238s" end="244s"/>
-       <text region="subtitles" src="fichier texte/text_attaques13.txt" begin="244s" end="249s"/>
-       <text region="subtitles" src="fichier texte/text_attaques14.txt" begin="250s" end="256s"/>
+       <text region="subtitles" src="fichier texte/text_attaques12.txt" begin="239s" end="242s"/>
+       <text region="subtitles" src="fichier texte/text_attaques13.txt" begin="242s" end="249s"/>
+       <text region="subtitles" src="fichier texte/text_attaques14.txt" begin="251s" end="256s"/>
        <text region="subtitles" src="fichier texte/text_attaques15.txt" begin="256s" end="261s"/>
 
     
