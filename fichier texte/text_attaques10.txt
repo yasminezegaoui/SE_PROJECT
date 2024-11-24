@@ -1,1 +1,1 @@
-Activer l'authentification multifacteurs (MFA) comme un code reçu par SMS ou via une application d'authentification
+Activer l'authentification multifacteurs (MFA) comme un code recu par SMS ou via une application d'authentification
