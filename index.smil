@@ -138,22 +138,19 @@
        <text region="subtitles" src="fichier texte/text15.txt" begin="112s" end="118s"/> 
          
        <!-- Malware -->
-       <text region="subtitles" src="fichier texte/text_malwares1.txt" begin="120s" end="122s"/>
        <text region="subtitles" src="fichier texte/text_malwares2.txt" begin="123s" end="129s"/>
        <text region="subtitles" src="fichier texte/text_malwares3.txt" begin="129s" end="135s"/>
 
        <text region="subtitles" src="fichier texte/text_malwares4.txt" begin="135s" end="137s"/>
        <text region="subtitles" src="fichier texte/text_malwares5.txt" begin="138s" end="145s"/>
        <text region="subtitles" src="fichier texte/text_malwares6.txt" begin="145s" end="148s"/>
-       <text region="subtitles" src="fichier texte/text_malwares7.txt" begin="148s" end="151s"/>
        <text region="subtitles" src="fichier texte/text_malwares8.txt" begin="151s" end="156s"/>
        <text region="subtitles" src="fichier texte/text_malwares9.txt" begin="156s" end="159s"/>
-       <text region="subtitles" src="fichier texte/text_malwares10.txt" begin="159s" end="166s"/>
-       <text region="subtitles" src="fichier texte/text_malwares12.txt" begin="167s" end="168s"/> 
+       <text region="subtitles" src="fichier texte/text_malwares10.txt" begin="159s" end="166s"/> 
        <text region="subtitles" src="fichier texte/text_malwares13.txt" begin="169s" end="171s"/>
        <text region="subtitles" src="fichier texte/text_malwares14.txt" begin="172s" end="175s"/> 
-       <text region="subtitles" src="fichier texte/text_malwares15.txt" begin="175s" end="179s"/> 
-       <text region="subtitles" src="fichier texte/text_malwares16.txt" begin="179s" end="183s"/>
+       <text region="subtitles" src="fichier texte/text_malwares15.txt" begin="176s" end="179s"/> 
+       <text region="subtitles" src="fichier texte/text_malwares16.txt" begin="180s" end="183s"/>
 
        <!-- Attaques de force -->
        <text region="subtitles" src="fichier texte/text_attaques2.txt" begin="187s" end="192s"/>
