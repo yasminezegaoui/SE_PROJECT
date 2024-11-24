@@ -167,7 +167,7 @@
        <text region="subtitles" src="fichier texte/text_attaques11.txt" begin="236s" end="238s"/>
        <text region="subtitles" src="fichier texte/text_attaques12.txt" begin="238s" end="244s"/>
        <text region="subtitles" src="fichier texte/text_attaques13.txt" begin="244s" end="249s"/>
-       <text region="subtitles" src="fichier texte/text_attaques14.txt" begin="249s" end="256s"/>
+       <text region="subtitles" src="fichier texte/text_attaques14.txt" begin="250s" end="256s"/>
        <text region="subtitles" src="fichier texte/text_attaques15.txt" begin="256s" end="261s"/>
 
     
