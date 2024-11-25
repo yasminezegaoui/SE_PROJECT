@@ -61,14 +61,17 @@
        <video region="r2" begin="138s" end="149s" src="image-vedio/Mal 5.mp4"/> 
        <audio src="voice/Malware 5.mp3"  begin="138s" end="149s"/>
 
-       <img region="r2" begin="149s" end="151s" src="image-vedio/malware 6.png"/>
+      <video region="r2" begin="149s" end="151s" src="image-vedio/malware 6.mp4"/>  
        <audio src="voice/Malware 6.mp3"  begin="149s" end="151s"/> 
 
        <video region="r2" begin="151s" end="159s" src="image-vedio/Mal 7.1.mp4"/>
-       <video region="r2" begin="159s" end="167s" src="image-vedio/Mal 7.2.mp4"/>
+       <img region="r2" begin="159s" end="162s" src="image-vedio/mal 7.2 1.png"/>
+       <img region="r2" begin="162s" end="165s" src="image-vedio/mal 7.2 2.png"/>
+       <img region="r2" begin="165s" end="167s" src="image-vedio/mal 7.2 3.png"/>
+    
        <audio src="voice/Malware 7.mp3"  begin="151s" end="167s"/> 
+       <video region="r2" begin="167s" end="169s" src="image-vedio/malware 8.mp4"/>
 
-       <img region="r2" begin="167s" end="169s" src="image-vedio/malware 8.png"/>
        <audio src="voice/Malware 8.mp3"  begin="167s" end="169s"/>
 
        <img region="r2" begin="170s" end="172s" src="image-vedio/mal 9.png"/>
