@@ -5,7 +5,7 @@
   <head>
     <meta name="author" content="Presentation SMIL Multimedia"/>
     <layout>
-      <root-layout width="300" height="200" background-color="white"/>
+      <root-layout width="800" height="500" background-color="white"/>
       <region id="r1" left="20%" top="70%" width="100%" height="30%"/>
       <region id="r2" width="100%" height="100%" fit="slice"/>
       <region id="subtitles" left="10%" top="85%" width="85%" height="3%" />
@@ -116,12 +116,12 @@
 
        <!-- Conclusion -->
        <audio src="voice/conclusion.mp3"  begin="261s" end="291s"/>
-       <img region="r2" begin="261s" end="264s" src="image-vedio/conc1.mp4"/>
-       <img region="r2" begin="264s" end="271s" src="image-vedio/conc last.png"/>
-       <img region="r2" begin="271s" end="275s" src="image-vedio/conc phishing.png"/>
-       <img region="r2" begin="275s" end="279s" src="image-vedio/conc virus.png"/>
-       <img region="r2" begin="279s" end="291s" src="image-vedio/conc force.png"/>
-       <img region="r2" begin="291s" end="296s" src="image-vedio/fin video.mp4"/>
+       <video region="r2" begin="261s" end="264s" src="image-vedio/conc_1.mp4"/>
+       <img region="r2" begin="264s" end="271s" src="image-vedio/conc_last.png"/>
+       <img region="r2" begin="271s" end="275s" src="image-vedio/conc_phishing.png"/>
+       <img region="r2" begin="275s" end="279s" src="image-vedio/conc_virus.png"/>
+       <img region="r2" begin="279s" end="291s" src="image-vedio/conc_force.png"/>
+       <video region="r2" begin="291s" end="296s" src="image-vedio/fin_video.mp4"/>
 
      
 
