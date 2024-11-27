@@ -56,19 +56,18 @@
 
        <audio src="voice/Malware 3.mp3"  begin="123s" end="129s"/>
        <audio src="voice/Malware 4.mp3"  begin="129s" end="138s"/> 
-       <video region="r2" begin="123s" end="138s" src="image-vedio/Mal 3+4 .mp4"/>  
-
+       <video region="r2" begin="123s" end="136s" src="image-vedio/Mal 3+4 .1 .mp4"/>  
+    <video region="r2" begin="136s" end="138s" src="image-vedio/Mal 3+4 .2.mp4"/>  
        <video region="r2" begin="138s" end="149s" src="image-vedio/mal 5.png"/> 
        <audio src="voice/Malware 5.mp3"  begin="138s" end="149s"/>
 
       <video region="r2" begin="149s" end="151s" src="image-vedio/malware 6.mp4"/>  
        <audio src="voice/Malware 6.mp3"  begin="149s" end="151s"/> 
 
-       <video region="r2" begin="151s" end="159s" src="image-vedio/Mal 7.1.mp4"/>
-       <img region="r2" begin="159s" end="162s" src="image-vedio/mal 7.2 1.png"/>
-       <img region="r2" begin="162s" end="165s" src="image-vedio/mal 7.2 2.png"/>
-       <img region="r2" begin="165s" end="167s" src="image-vedio/mal 7.2 3.png"/>
-    
+       <video region="r2" begin="151s" end="156s" src="image-vedio/Mal 7.1 .mp4"/>
+       <video region="r2" begin="156s" end="162s" src="image-vedio/Mal 7.2.mp4"/>
+       <img region="r2" begin="162s" end="164s" src="image-vedio/Mal 7.2 T =7s  dure 2s.png"/>
+       <video region="r2" begin="164s" end="167s" src="image-vedio/Mal 7.3.mp4"/>
        <audio src="voice/Malware 7.mp3"  begin="151s" end="167s"/> 
        <video region="r2" begin="167s" end="169s" src="image-vedio/malware 8.mp4"/>
 
